@@ -1,8 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;                                                                            ;
 ;                           LED Functions                                    ;
-;                            Homework #3                                     ;
-;                             EE/CS 10b                                      ;
 ;                                                                            ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -17,7 +15,7 @@
 ;
 ;
 ; Revision History:
-;    05/13/26  Emily Wu         Initial revision (used ChatGPT free model). 
+;    05/13/26  Emily Wu         Initial revision 
 ;    05/14/26  Emily Wu         Implemented error handling in DisplayHex/Light.
 ;    05/15/26  Emily Wu         Fixed light array mask & shifting. 
 ;    05/16/26  Emily Wu         PUSH/POP Y and Z registers, updated comments,
