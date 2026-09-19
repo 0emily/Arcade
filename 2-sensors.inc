@@ -2,8 +2,6 @@
 ;                                                                            ;
 ;                         Sensor Symbol Defs                                 ;
 ;                            Include File                                    ;
-;                            Homework #2                                     ;
-;                             EE/CS 10b                                      ;
 ;                                                                            ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -11,7 +9,7 @@
 ; procedures.
 ;
 ; Revision History:
-;    04/30/26  Emily Wu      	initial revision (used ChatGPT free model)
+;    04/30/26  Emily Wu      	initial revision
 ;    05/02/26  Emily Wu      	added new variables
 ;    05/03/26  Emily Wu         added comments
 ; 	 06/14/25  Emily Wu 		revised for code quality
