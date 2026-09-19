@@ -1,8 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;                                                                            ;
 ;                     Sound/Actuator Functions                               ;
-;                            Homework #4                                     ;
-;                             EE/CS 10b                                      ;
 ;                                                                            ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -21,7 +19,7 @@
 ;    SPI_TxRx()         - loop that waits until the SPI interrupt flag is set
 ;
 ; Revision History:
-;    05/26/26  Emily Wu         Initial revision (used ChatGPT free model).
+;    05/26/26  Emily Wu         Initial revision.
 ;    05/29/26  Emily Wu         Adapted division function Div24 from Div16. 
 ;    05/30/26  Emily Wu         Fixed PlayNote and SetActuators.
 ;    06/02/26  Emily Wu         Fixed EEROM-related functions. 
