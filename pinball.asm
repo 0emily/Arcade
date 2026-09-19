@@ -46,7 +46,7 @@
 ;    MusicHandler()     - Plays background music continuously while players play
 ;
 ; Revision History:
-;    06/09/26  Emily Wu         Initial revision [used ChatGPT free version]
+;    06/09/26  Emily Wu         Initial revision
 ;    06/10/26  Emily Wu         able to set number of players & start game
 ;    06/11/26  Emily Wu         able to update score and do non-EC functions
 ;    06/12/26  Emily Wu         added sound (PWM, game music, high score music)
