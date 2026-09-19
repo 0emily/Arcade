@@ -13,7 +13,7 @@
 ;       ScanDebounce -  checks for new sensors or debounces active sensors
 ;
 ; Revision History:
-;    04/30/26  Emily Wu         initial revision (used ChatGPT free model)
+;    04/30/26  Emily Wu         initial revision
 ;    05/01/26  Emily Wu         fixed GetSensor() (added blocking functionality)
 ;    05/02/26  Emily Wu         Prevented autorepeat; addressed critical code;
 ;                               ensured functionality on board; moved keyValue 
