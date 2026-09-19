@@ -1,8 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;                                                                            ;
 ;                          Initializations                                   ;
-;                            Homework #2                                     ;
-;                             EE/CS 10b                                      ;
 ;                                                                            ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -14,7 +12,7 @@
 ;    InitSensors - initialize sensor variables
 ;
 ; Revision History:
-;    04/30/26  Emily Wu         initial revision (used ChatGPT free model)
+;    04/30/26  Emily Wu         initial revision
 ;    05/03/26  Emily Wu         added comments
 ;    06/14/25  Emily Wu         revised for code quality
 
